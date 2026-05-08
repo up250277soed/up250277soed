@@ -1,4 +1,5 @@
- Hi there 👋
+#Hi there 👋
+-Me defino como un entusiasta de la tecnología con una mentalidad de crecimiento continuo. Mi enfoque principal es la intersección entre el desarrollo técnico y la innovación digital, buscando siempre mejorar mis habilidades y aprender nuevas herramientas que permitan resolver problemas reales o mejorar de manera creativa, distintas e innovadoras.
 
 <!--
 **up250277soed/up250277soed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
